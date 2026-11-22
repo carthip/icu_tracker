@@ -1,0 +1,18 @@
+# No external dependencies — pure Python standard library only.
+# Uncomment below if you add optional extensions:
+
+# For real reverse geocoding:
+# geopy>=2.4
+
+# For a REST API wrapper:
+# fastapi>=0.110
+# uvicorn>=0.29
+
+# For database persistence:
+# sqlalchemy>=2.0
+
+# For the Streamlit UI:
+streamlit>=1.35
+
+# For testing:
+pytest>=8.0
